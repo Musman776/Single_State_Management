@@ -1,6 +1,7 @@
-# Singal_provider_state_management
+# Singal State Management
 
 A new Flutter project.
+Singal State Management using provide only for one class
 
 ## Getting Started
 
